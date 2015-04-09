@@ -1,2 +1,0 @@
-# GPTI
-GPTI
